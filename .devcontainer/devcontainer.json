@@ -11,10 +11,8 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
-	"updateContentCommand": "npm i -g ts-node",
-
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "npm i -g typescript",
+	"postCreateCommand": "npm i -g typescript && npm i -g tsx",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
