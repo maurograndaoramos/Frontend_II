@@ -35,7 +35,7 @@ type Cart = {
     totalPrice: number
 };
 
-const newUser = {products
+const newUser = {
     name : "",
     transactions : [],
     points : 0,
