@@ -1,4 +1,4 @@
-## Multi-purpose Portfolio
+## Option 1: Multi-purpose Portfolio
 
 Portfolio com 2 main 'Sections'
 - CV + Project Showcase
@@ -22,3 +22,11 @@ Usar Public APIs para mostrar:
 # Chances of idea being scrapped:
 
 95% likely to be scrapped, 5% se tiver um thunder bolt de inspiraxoum para outra coisa
+
+## Option 2: Rework de Project I
+
+Re-criar o projeto de Project I em Nextjs e Supabase
+
+https://github.com/maurograndaoramos/ETIC_PW2425_PROJETO_I
+
+Cumpre todos os requisitos e poderia ser bom re-fazer o projeto mas com novas skills e novos conhecimentos
